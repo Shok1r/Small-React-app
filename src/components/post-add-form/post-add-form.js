@@ -8,7 +8,7 @@ const PostAddForm = () => {
             <input
                 type="text"
                 placeholder="О чем вы думаете сейчас?"
-                class="form-control new-post-label"
+                className="form-control new-post-label"
             />
             <button
                 type="submit"
